@@ -14,7 +14,7 @@ Esta es una página web para buscar trabajo, donde los usuarios pueden registrar
 ## Cómo correr el proyecto
 
 1. Clona el repositorio:
-```bash
+   bash
 git clone https://github.com/FeRosales/Pagina-web-seguridad.git
 cd Pagina-web-seguridad
 Instala las dependencias con: npm install
